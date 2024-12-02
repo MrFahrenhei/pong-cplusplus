@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/vvberaldo/CLionProjects/game/build",
+  "command": "/usr/bin/g++  -I/home/vvberaldo/CLionProjects/game/Core -g -I/usr/local/include -std=gnu++14 -o CMakeFiles/game.dir/main.cpp.o -c /home/vvberaldo/CLionProjects/game/main.cpp",
+  "file": "/home/vvberaldo/CLionProjects/game/main.cpp"
+},
+{
+  "directory": "/home/vvberaldo/CLionProjects/game/build",
+  "command": "/usr/bin/g++  -I/home/vvberaldo/CLionProjects/game/Core -g -I/usr/local/include -std=gnu++14 -o CMakeFiles/game.dir/Ball.cpp.o -c /home/vvberaldo/CLionProjects/game/Ball.cpp",
+  "file": "/home/vvberaldo/CLionProjects/game/Ball.cpp"
+},
+{
+  "directory": "/home/vvberaldo/CLionProjects/game/build",
+  "command": "/usr/bin/g++  -I/home/vvberaldo/CLionProjects/game/Core -g -I/usr/local/include -std=gnu++14 -o CMakeFiles/game.dir/Paddle.cpp.o -c /home/vvberaldo/CLionProjects/game/Paddle.cpp",
+  "file": "/home/vvberaldo/CLionProjects/game/Paddle.cpp"
+},
+{
+  "directory": "/home/vvberaldo/CLionProjects/game/build",
+  "command": "/usr/bin/g++  -I/home/vvberaldo/CLionProjects/game/Core -g -I/usr/local/include -std=gnu++14 -o CMakeFiles/game.dir/CpuPaddle.cpp.o -c /home/vvberaldo/CLionProjects/game/CpuPaddle.cpp",
+  "file": "/home/vvberaldo/CLionProjects/game/CpuPaddle.cpp"
+}
+]

@@ -1,9 +1,4 @@
-//
-// Created by vvberaldo on 03/11/24.
-//
-
-#ifndef PADDLE_H
-#define PADDLE_H
+#pragma once
 #include <raylib.h>
 #include <iostream>
 class Paddle {
@@ -23,7 +18,3 @@ public:
     float getX() const;
     float getY() const;
 };
-
-
-
-#endif //PADDLE_H

@@ -1,9 +1,4 @@
-//
-// Created by vvberaldo on 03/11/24.
-//
-
-#ifndef BALL_H
-#define BALL_H
+#pragma once
 #include <raylib.h>
 
 class Ball {
@@ -16,6 +11,7 @@ private:
     void checkCollision();
     void resetBall();
 public:
+    Ball() = default;
     Ball(float x, float y);
     void setRadius(int radius);
     void setSpeed(int speed_x, int speed_y);
@@ -28,7 +24,3 @@ public:
     int getPlayerScore() const;
     int getCpuScore() const;
 };
-
-
-
-#endif //BALL_H
