@@ -1,3 +1,0 @@
-/home/vvberaldo/CLionProjects/game/build/CMakeFiles/game.dir
-/home/vvberaldo/CLionProjects/game/build/CMakeFiles/edit_cache.dir
-/home/vvberaldo/CLionProjects/game/build/CMakeFiles/rebuild_cache.dir

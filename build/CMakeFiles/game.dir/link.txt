@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/game.dir/main.cpp.o CMakeFiles/game.dir/Ball.cpp.o CMakeFiles/game.dir/Paddle.cpp.o CMakeFiles/game.dir/CpuPaddle.cpp.o -o game  -Wl,-rpath,/usr/local/lib /usr/local/lib/libraylib.so -L/usr/local/lib -lraylib 
